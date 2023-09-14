@@ -21,9 +21,15 @@ Biblioteca gratuita para geração dos arquivos SPED e demais declarações nece
 
 O Sistema Público de Escrituração Digital (SPED), é o sistema criado pelo governo federal para o recebimento de informações fiscais e contábeis das empresas.
 
-## <a id="buy-me-a-coffee" /> Gostou? Me paga um café :D [![Coffee](https://img.shields.io/badge/buy%20me%20a-coffee-yellow)](https://www.buymeacoffee.com/orochasamuel)
+## <a id="buy-me-a-coffee" /> Gostou? Me paga um café :D
 
 Se as bibliotecas lhe ajudaram ou contribuiram de alguma forma, apoie. :D Ajude a dar continuidade nesse projeto.
+
+<div align="center">
+  
+[![Apoie](https://github.com/orochasamuel/fiscalbr-net/assets/15462690/a951abc7-a7ac-4e7d-86fb-68c63017c2e7)](https://nubank.com.br/pagar/4jklf/N5Nz6ZCJ6d)
+
+</div>
 
 ## <a id="need-help" /> Dúvidas? [![GitHub issues](https://img.shields.io/github/issues/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/issues)
 
