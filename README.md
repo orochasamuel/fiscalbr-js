@@ -2,3 +2,10 @@
 
 ###### SITE OFICIAL DO SPED: http://sped.rfb.gov.br/
 Biblioteca gratuita  - desenvolvida com Visual Studio Community 2022 - para geração dos arquivos SPED e demais declarações necessárias no cenário contábil/fiscal brasileiro.
+
+
+### TODO
+
+[] Mapear Bloco 0 da EFD Fiscal
+[] Testar escrita do arquivo
+[] Testar leitura do arquivo
