@@ -1,2 +1,2 @@
-interface IBlocoSped {
+export interface IBlocoSped {
 }

@@ -1,4 +1,6 @@
-abstract class RegistroSped implements IRegistroSped {
+import { IRegistroSped } from "./interfaces/IRegistroSped";
+
+export abstract class RegistroSped implements IRegistroSped {
     public reg: string;
 
     constructor(reg: string) {

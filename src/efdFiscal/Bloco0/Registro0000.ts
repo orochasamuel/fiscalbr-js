@@ -1,8 +1,9 @@
-import * as Enums from "../core/enums";
-import { RegistroSped } from "../core/sped/RegistroSped";
+import * as Enums from "../../core/sped/enums";
+import { RegistroSped } from "../../core/sped/RegistroSped";
 
 export class Registro0000 extends RegistroSped {
 
+    // const REG_0000: string = "0000";
     // public constructor() {
     //     super("0000");
     // }
@@ -28,6 +29,9 @@ export class Registro0000 extends RegistroSped {
     public indAtiv: Enums.IndTipoAtividade;
 
     validar(): boolean {
-        throw new Error("Method not implemented.");
+        if (this.reg !== "0000")
+            return false;
+
+        return true;
     }
 }
