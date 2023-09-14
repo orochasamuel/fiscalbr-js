@@ -1,11 +1,32 @@
-# FiscalBrJS [![Build Status](https://github.com/orochasamuel/fiscalbr-js/actions/workflows/typescript.yml/badge.svg)](https://github.com/orochasamuel/fiscalbr-net/actions/workflows/typescript.yml) [![GitHub issues](https://img.shields.io/github/issues/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/issues) [![TODOs](https://badgen.net/https/api.tickgit.com/badgen/github.com/orochasamuel/fiscalbr-js)](https://www.tickgit.com/browse?repo=github.com/orochasamuel/fiscalbr-js) [![GitHub](https://img.shields.io/github/license/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/blob/main/LICENSE)
+<div align="center">
 
-###### SITE OFICIAL DO SPED: http://sped.rfb.gov.br/
-Biblioteca gratuita  - desenvolvida com Visual Studio Community 2022 - para geração dos arquivos SPED e demais declarações necessárias no cenário contábil/fiscal brasileiro.
+# FiscalBrJS
+[![Build Status](https://github.com/orochasamuel/fiscalbr-js/actions/workflows/dotnet.yml/badge.svg)](https://github.com/orochasamuel/fiscalbr-js/actions/workflows/dotnet.yml) [![GitHub issues](https://img.shields.io/github/issues/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/issues) [![GitHub](https://img.shields.io/github/license/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/blob/master/LICENSE)
 
+###### http://sped.rfb.gov.br/
+Biblioteca gratuita para geração dos arquivos SPED e demais declarações necessárias no cenário contábil/fiscal brasileiro.
 
-### TODO
+</div>
 
-[] Mapear Bloco 0 da EFD Fiscal
-[] Testar escrita do arquivo
-[] Testar leitura do arquivo
+## <a id="table-of-contents" /> 📖 Conteúdo
+
+- [SPED](#sped)
+- [Apoie :D](#buy-me-a-coffee)
+- [Dúvidas](#need-help)
+- [Licença](#license)
+
+## <a id="sped" /> SPED
+
+O Sistema Público de Escrituração Digital (SPED), é o sistema criado pelo governo federal para o recebimento de informações fiscais e contábeis das empresas.
+
+## <a id="buy-me-a-coffee" /> Gostou? Me paga um café :D [![Coffee](https://img.shields.io/badge/buy%20me%20a-coffee-yellow)](https://www.buymeacoffee.com/orochasamuel)
+
+Se as bibliotecas lhe ajudaram ou contribuiram de alguma forma, apoie. :D Ajude a dar continuidade nesse projeto.
+
+## <a id="need-help" /> Dúvidas? [![GitHub issues](https://img.shields.io/github/issues/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/issues)
+
+Abra um issue na página do projeto no GitHub ou [clique aqui](https://github.com/orochasamuel/fiscalbr-js/issues).
+
+## <a id="license" /> Licença [![GitHub](https://img.shields.io/github/license/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/blob/master/LICENSE)
+
+[MIT](https://github.com/orochasamuel/fiscalbr-js/blob/master/LICENSE)
