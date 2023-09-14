@@ -29,6 +29,6 @@ Se as bibliotecas lhe ajudaram ou contribuiram de alguma forma, apoie. :D Ajude 
 
 Abra um issue na página do projeto no GitHub ou [clique aqui](https://github.com/orochasamuel/fiscalbr-js/issues).
 
-## <a id="license" /> Licença [![GitHub](https://img.shields.io/github/license/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/blob/master/LICENSE)
+## <a id="license" /> Licença [![GitHub](https://img.shields.io/github/license/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/blob/main/LICENSE)
 
-[MIT](https://github.com/orochasamuel/fiscalbr-js/blob/master/LICENSE)
+[MIT](https://github.com/orochasamuel/fiscalbr-js/blob/main/LICENSE)
