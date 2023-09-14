@@ -1,7 +1,9 @@
 <div align="center">
 
 # FiscalBrJS
-[![GitHub issues](https://img.shields.io/github/issues/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/issues) [![GitHub](https://img.shields.io/github/license/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/issues) [![GitHub](https://img.shields.io/github/license/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/blob/main/LICENSE)
+
+
 
 ###### http://sped.rfb.gov.br/
 Biblioteca gratuita para geração dos arquivos SPED e demais declarações necessárias no cenário contábil/fiscal brasileiro.
