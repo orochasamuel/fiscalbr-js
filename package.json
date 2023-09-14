@@ -1,0 +1,12 @@
+{
+  "name": "fiscalbr",
+  "version": "0.0.1",
+  "description": "Para facilitar seu dia a dia como desenvolvedor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["fiscal", "fiscalbr", "ecd", "ecf", "efd", "efd contribuições", "efd fiscal", "sped", "sped contribuições", "sped fiscal", "sped icms ipi", "sped pis cofins"],
+  "author": "orochasamuel",
+  "license": "MIT"
+}
