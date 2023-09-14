@@ -1,4 +1,4 @@
-export interface IRegistroSped {
+export interface RegistroSped {
     reg: string;
     validar(): boolean;
 }
