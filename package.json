@@ -6,24 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "fiscal",
-    "fiscalbr",
-    "ecd",
-    "ecf",
-    "efd",
-    "efd contribuições",
-    "efd fiscal",
-    "escrituração",
-    "escrituração contábil",
-    "escrituração contábil digital",
-    "escrituração contábil fiscal",
-    "sped",
-    "sped contribuições",
-    "sped fiscal",
-    "sped icms ipi",
-    "sped pis cofins"
-  ],
+  "keywords": ["fiscal", "fiscalbr", "ecd", "ecf", "efd", "efd contribuições", "efd fiscal", "sped", "sped contribuições", "sped fiscal", "sped icms ipi", "sped pis cofins"],
   "author": "orochasamuel",
   "license": "MIT"
 }
