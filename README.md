@@ -6,7 +6,7 @@
 ###### http://sped.rfb.gov.br/
 Biblioteca gratuita para geração dos arquivos SPED e demais declarações necessárias no cenário contábil/fiscal brasileiro.
 
-### Qualquer colaboração será bem vinda. Não tenho muita experiência com JS/TS por isso a velocidade de crescimento deste projeto tende a ser menor do que o projeto feito em C#.
+### Qualquer colaboração será bem vinda. Não tenho muita experiência com JS por isso a velocidade de crescimento deste projeto tende a ser menor do que o projeto feito em C#.
 
 </div>
 
