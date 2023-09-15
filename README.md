@@ -1,14 +1,29 @@
 <div align="center">
 
-# FiscalBrJS
+# <a id="title" /> FiscalBrJS
 [![GitHub issues](https://img.shields.io/github/issues/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/issues) [![GitHub](https://img.shields.io/github/license/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/blob/main/LICENSE)
-
-
 
 ###### http://sped.rfb.gov.br/
 Biblioteca gratuita para geração dos arquivos SPED e demais declarações necessárias no cenário contábil/fiscal brasileiro.
 
+### Qualquer colaboração será bem vinda. Não tenho muita experiência com JS/TS por isso a velocidade de crescimento deste projeto tende a ser menor do que o projeto feito em C#.
+
 </div>
+
+```ts
+let myXpWithCSharp = 6;
+let myXpWithJavascript = 3;
+
+if (myXpWithCSharp > myXpWithJavascript) {
+   console.log("I need help!! o/");
+}
+
+console.log("Obrigado por apoiar o FiscalBr! :)");
+```
+
+## <a id="brother-project" /> Conheça o FiscalBr.NET
+
+[FiscalBr.NET](https://github.com/orochasamuel/fiscalbr-net) é uma biblioteca feita em C# para auxiliar na escrita e leitura dos arquivos SPED.
 
 ## <a id="table-of-contents" /> 📖 Conteúdo
 
@@ -33,10 +48,16 @@ Se as bibliotecas lhe ajudaram ou contribuiram de alguma forma, apoie. :D Ajude 
 
 </div>
 
+<p align="right">(<a href="#title">voltar para o topo</a>)</p>
+
 ## <a id="need-help" /> Dúvidas? [![GitHub issues](https://img.shields.io/github/issues/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/issues)
 
 Abra um issue na página do projeto no GitHub ou [clique aqui](https://github.com/orochasamuel/fiscalbr-js/issues).
 
+<p align="right">(<a href="#title">voltar para o topo</a>)</p>
+
 ## <a id="license" /> Licença [![GitHub](https://img.shields.io/github/license/orochasamuel/fiscalbr-js)](https://github.com/orochasamuel/fiscalbr-js/blob/main/LICENSE)
 
 [MIT](https://github.com/orochasamuel/fiscalbr-js/blob/main/LICENSE)
+
+<p align="right">(<a href="#title">voltar para o topo</a>)</p>
