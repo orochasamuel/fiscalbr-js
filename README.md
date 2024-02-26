@@ -21,7 +21,7 @@ if (myXpWithCSharp > myXpWithJavascript) {
 console.log("Obrigado por apoiar o FiscalBr! :)");
 ```
 
-## <a id="brother-project" /> Conheça o FiscalBr.NET
+## <a id="brother-project" /> Conheça também o FiscalBr.NET
 
 [FiscalBr.NET](https://github.com/orochasamuel/fiscalbr-net) é uma biblioteca feita em C# para auxiliar na escrita e leitura dos arquivos SPED.
 
